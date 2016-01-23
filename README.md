@@ -12,6 +12,10 @@ My private list of awesome links to help you never stop learning.
 
 [Design Patterns &amp; Refactoring](https://sourcemaking.com/)
 
+## Improve coding skill
+
+[Codin Game](https://www.codingame.com/home)
+
 ## PHP
 
 [Design Patterns in PHP](https://github.com/domnikl/DesignPatternsPHP)
@@ -19,6 +23,30 @@ My private list of awesome links to help you never stop learning.
 [The top 10 things that any Pro PHP Developer should be doing](http://www.slideshare.net/sourceministry/the-top-10-things-that-any-pro-php-developer-should-be-doing)
 
 [Understanding PHP memory](http://www.slideshare.net/jpauli/understanding-php-memory)
+
+### Design
+
+[Getting rid of null - by Matthias Noback](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-2-getting-rid-null)
+
+### Exceptions
+
+[Formatting Exception Messages - by Ross Tuck](http://rosstuck.com/formatting-exception-messages/)
+
+## Machine Learning
+
+### Courses
+
+[Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
+
+[Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+### Python
+
+[scikit-learn - Machine Learning in Python](http://scikit-learn.org/stable/)
+
+### PHP
+
+[Is PHP Now Suitable For Machine Learning?](https://medium.com/@syntheticmatt/is-php-now-suitable-for-machine-learning-a24e0f3233ac#.5glbifax2)
 
 ## MySQL
 
