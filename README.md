@@ -4,18 +4,27 @@ My private list of awesome links to help you never stop learning.
 
 **Feel free to add new links or categories!**
 
+---
 ## For beginners
 
 [Learn to code interactively, for free.](https://www.codecademy.com/)
 
+---
 ## Creating good software 
 
 [Design Patterns &amp; Refactoring](https://sourcemaking.com/)
 
+---
 ## Improve coding skill
 
 [Codin Game](https://www.codingame.com/home)
 
+---
+## Linux
+
+[Oh My Zsh - zsh shell](https://github.com/robbyrussell/oh-my-zsh)
+
+---
 ## PHP
 
 [Design Patterns in PHP](https://github.com/domnikl/DesignPatternsPHP)
@@ -26,12 +35,15 @@ My private list of awesome links to help you never stop learning.
 
 ### Design
 
+[Reducing complexity - by Matthias Noback](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
+
 [Getting rid of null - by Matthias Noback](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-2-getting-rid-null)
 
 ### Exceptions
 
 [Formatting Exception Messages - by Ross Tuck](http://rosstuck.com/formatting-exception-messages/)
 
+---
 ## Machine Learning
 
 ### Courses
@@ -48,14 +60,17 @@ My private list of awesome links to help you never stop learning.
 
 [Is PHP Now Suitable For Machine Learning?](https://medium.com/@syntheticmatt/is-php-now-suitable-for-machine-learning-a24e0f3233ac#.5glbifax2)
 
+---
 ## MySQL
 
 [MySQL under the siege](http://www.slideshare.net/sourceministry/mysql-under-the-siege)
 
+---
 ## Writing
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+---
 ## Learn something new
 
 [Learn how to play chess](https://www.chesscademy.com/)
