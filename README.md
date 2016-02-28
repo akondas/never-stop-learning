@@ -33,6 +33,8 @@ My private list of awesome links to help you never stop learning.
 
 [Understanding PHP memory](http://www.slideshare.net/jpauli/understanding-php-memory)
 
+[25 Useful PHP Libraries for Web Developers](http://detechter.com/25-useful-php-libraries-for-web-developers/)
+
 ### Design
 
 [Reducing complexity - by Matthias Noback](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
