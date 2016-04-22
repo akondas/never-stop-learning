@@ -35,6 +35,8 @@ My private list of awesome links to help you never stop learning.
 
 [25 Useful PHP Libraries for Web Developers](http://detechter.com/25-useful-php-libraries-for-web-developers/)
 
+[PHP 7 Arrays : HashTables](http://jpauli.github.io/2016/04/08/hashtables.html)
+
 ### Design
 
 [Reducing complexity - by Matthias Noback](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
@@ -62,7 +64,7 @@ My private list of awesome links to help you never stop learning.
 
 [Is PHP Now Suitable For Machine Learning?](https://medium.com/@syntheticmatt/is-php-now-suitable-for-machine-learning-a24e0f3233ac#.5glbifax2)
 
-[PHP 7 Arrays : HashTables](http://jpauli.github.io/2016/04/08/hashtables.html)
+[PHP-ML: PHP Machine Learning library](https://github.com/php-ai/php-ml)
 
 ---
 ## MySQL
