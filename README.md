@@ -62,15 +62,25 @@ My private list of awesome links to help you never stop learning.
 
 [Is PHP Now Suitable For Machine Learning?](https://medium.com/@syntheticmatt/is-php-now-suitable-for-machine-learning-a24e0f3233ac#.5glbifax2)
 
+[PHP 7 Arrays : HashTables](http://jpauli.github.io/2016/04/08/hashtables.html)
+
 ---
 ## MySQL
 
 [MySQL under the siege](http://www.slideshare.net/sourceministry/mysql-under-the-siege)
 
+[Growing up with MySQL](https://nylas.com/blog/growing-up-with-mysql/)
+
 ---
 ## Writing
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+---
+## Self-improvement
+
+[12 Powerful Habits I Have Stolen From Ultra-Successful People](http://observer.com/2016/03/12-powerful-habits-i-have-stolen-from-ultra-successful-people/)
 
 ---
 ## Learn something new
