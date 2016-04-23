@@ -37,6 +37,8 @@ My private list of awesome links to help you never stop learning.
 
 [PHP 7 Arrays : HashTables](http://jpauli.github.io/2016/04/08/hashtables.html)
 
+[Humbug: Mutation Testing framework for PHP](https://github.com/padraic/humbug)
+
 ### Design
 
 [Reducing complexity - by Matthias Noback](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
