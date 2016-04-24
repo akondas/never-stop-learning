@@ -14,6 +14,14 @@ My private list of awesome links to help you never stop learning.
 
 [Design Patterns &amp; Refactoring](https://sourcemaking.com/)
 
+[Programming guidelines - Part 1: Reducing complexity](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
+
+[Programming guidelines - Part 2: Getting rid of null](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-2-getting-rid-null)
+
+[Programming guidelines - Part 3: The life and death of objects](https://www.ibuildings.nl/blog/2016/02/programming-guidelines-part-3-the-life-and-death-objects)
+
+[Programming guidelines - Part 4: Messages](https://www.ibuildings.nl/blog/2016/02/programming-guidelines-part-4-messages)
+
 ---
 ## Improve coding skill
 
