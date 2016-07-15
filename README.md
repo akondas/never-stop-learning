@@ -22,15 +22,30 @@ My private list of awesome links to help you never stop learning.
 
 [Programming guidelines - Part 4: Messages](https://www.ibuildings.nl/blog/2016/02/programming-guidelines-part-4-messages)
 
+[Getters/Setters. Evil. Period.](http://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
+
+---
+## People to follow
+
+[Yegor Bugayenko](http://www.yegor256.com/)
+
+[Martin Fowler](http://martinfowler.com/)
+
+[Fabien Potencier](http://fabien.potencier.org/)
+
 ---
 ## Improve coding skill
 
 [Codin Game](https://www.codingame.com/home)
 
+[CodeFights](https://codefights.com)
+
 ---
 ## Linux
 
 [Oh My Zsh - zsh shell](https://github.com/robbyrussell/oh-my-zsh)
+
+[tmux cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 
 ---
 ## PHP
