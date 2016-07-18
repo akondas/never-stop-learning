@@ -31,7 +31,13 @@ My private list of awesome links to help you never stop learning.
 
 [Martin Fowler](http://martinfowler.com/)
 
+### PHP
+
 [Fabien Potencier](http://fabien.potencier.org/)
+
+[Bernhard Schussek](https://webmozart.io/blog/)
+
+[Marco Pivetta](https://ocramius.github.io/)
 
 ---
 ## Improve coding skill
