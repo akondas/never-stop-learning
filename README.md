@@ -24,6 +24,8 @@ My private list of awesome links to help you never stop learning.
 
 [Getters/Setters. Evil. Period.](http://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
 
+[Security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers)
+
 ---
 ## People to follow
 
