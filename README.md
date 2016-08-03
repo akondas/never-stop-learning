@@ -70,6 +70,11 @@ My private list of awesome links to help you never stop learning.
 
 [Humbug: Mutation Testing framework for PHP](https://github.com/padraic/humbug)
 
+## JavaScript
+
+[12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.jdzxb415g)
+
+
 ### Design
 
 [Reducing complexity - by Matthias Noback](https://www.ibuildings.nl/blog/2016/01/programming-guidelines-php-developers-part-1-reducing-complexity)
