@@ -26,6 +26,8 @@ My private list of awesome links to help you never stop learning.
 
 [Security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers)
 
+[How To Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code)
+
 ---
 ## People to follow
 
