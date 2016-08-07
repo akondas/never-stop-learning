@@ -28,6 +28,8 @@ My private list of awesome links to help you never stop learning.
 
 [How To Write Unmaintainable Code](https://github.com/Droogans/unmaintainable-code)
 
+[How to use GitHub like a proper human being](https://stories.devacademy.la/how-to-use-github-like-a-proper-human-being-1a9c895c4e13#.15k6tyvb7)
+
 ---
 ## People to follow
 
