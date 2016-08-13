@@ -78,6 +78,7 @@ My private list of awesome links to help you never stop learning.
 
 [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.jdzxb415g)
 
+[5 Questions Every Unit Test Must Answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.cxf1uylg5)
 
 ### Design
 
